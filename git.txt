@@ -1,0 +1,15 @@
+✅ 1. Tell Git to track the changes
+bash
+Copy
+Edit
+git add app.py
+✅ 2. Save the changes (commit)
+bash
+Copy
+Edit
+git commit -m "Made changes to app.py"
+✅ 3. Send the changes to GitHub
+bash
+Copy
+Edit
+git push
